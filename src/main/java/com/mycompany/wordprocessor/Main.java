@@ -25,7 +25,6 @@ public class Main extends javax.swing.JFrame {
         
         // Set to fullscreen
         setExtendedState(JFrame.MAXIMIZED_BOTH);
-        
     }
     
     // Methods
