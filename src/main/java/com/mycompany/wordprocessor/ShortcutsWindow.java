@@ -39,7 +39,7 @@ public class ShortcutsWindow extends javax.swing.JDialog {
         jButton1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        setTitle("Ayuda");
+        setTitle("Help");
 
         jPanel1.setLayout(new java.awt.BorderLayout());
 
